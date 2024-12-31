@@ -1,4 +1,4 @@
-# Project: The Best Movies According to Angela
+# Project: The Best Movies According to Rizki
 
 ## Description
 
